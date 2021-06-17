@@ -1,6 +1,10 @@
 # Deep_learning_Project_DetectBird
 
 ![AMERICAN_PIPIT202](https://user-images.githubusercontent.com/81195613/122320501-49ae4d00-cf5d-11eb-9712-5c2325ccf679.jpg)
+![BELTED_KINGFISHER003](https://user-images.githubusercontent.com/81195613/122321138-5aab8e00-cf5e-11eb-8177-165bc65cd658.jpg)
+![CALIFORNIA_GULL002](https://user-images.githubusercontent.com/81195613/122321149-5da67e80-cf5e-11eb-9547-1916a3eb7612.jpg)
+![GRAY_CATBIRD007](https://user-images.githubusercontent.com/81195613/122321125-55e6da00-cf5e-11eb-89f6-749ef78b9b3d.jpg)
+
 
 - 직접 설계한 모델을 이용해 새의 종류를 분류
 - 모델 : VGG16을 참고
